@@ -1,6 +1,6 @@
 # YelpCamp
 Hi!
-YelpCamp is a website that I develop for pepole to see and share information about campgrounds across the globe.
+YelpCamp is a website that I develop for pepole to share information about campgrounds across the globe.
 
 ## Built With
 
