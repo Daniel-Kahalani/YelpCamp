@@ -2,6 +2,15 @@
 Hi!
 YelpCamp is a website that I develop for pepole to share information about campgrounds across the globe.
 
+## Screenshots
+
+![Home Page](Screenshots/home.png)
+![Login Page](Screenshots/login.png)
+![Index Page](Screenshots/index.png)
+![Show Page](Screenshots/show.png)
+![Edit Page](Screenshots/edit.png)
+![New Page](Screenshots/new.png)
+
 ## Built With
 
 * [Node.js](https://nodejs.org/en/) - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment
